@@ -1,0 +1,1 @@
+{"ckpdir": "./depthwise_sharing/", "imdbdir": "../residual_adapters/decathlon-1.0/annotations/", "datadir": "../residual_adapters/decathlon-1.0/", "seed": 0, "lr": 0.1, "step2": 60, "step1": 40, "factor": 1.0, "step3": 80, "nb_epochs": 100}

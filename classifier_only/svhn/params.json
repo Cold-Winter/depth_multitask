@@ -1,0 +1,1 @@
+{"ckpdir": "./classifier_only/", "imdbdir": "../ibm_project/residual_adapters/data/decathlon-1.0/annotations/", "datadir": "../ibm_project/residual_adapters/data/decathlon-1.0/", "seed": 0, "lr": 0.1, "step1": 10, "factor": 1.0, "nb_epochs": 30}

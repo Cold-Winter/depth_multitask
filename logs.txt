@@ -1,0 +1,371 @@
+loading annotations into memory...
+Done (t=0.20s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.09s)
+creating index...
+index created!
+daimlerpedcls
+params number
+339165
+Epoch [1/60], Step [1/230], Task 0 Loss: 0.9213, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [1/60], Step [51/230], Task 0 Loss: 0.4714, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [1/60], Step [101/230], Task 0 Loss: 0.2755, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [1/60], Step [151/230], Task 0 Loss: 0.1841, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [1/60], Step [201/230], Task 0 Loss: 0.2311, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.6326079369
+Epoch [2/60], Step [1/230], Task 0 Loss: 0.1863, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [2/60], Step [51/230], Task 0 Loss: 0.1753, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [2/60], Step [101/230], Task 0 Loss: 0.1287, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [2/60], Step [151/230], Task 0 Loss: 0.1477, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [2/60], Step [201/230], Task 0 Loss: 0.0511, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2456700802
+Epoch [3/60], Step [1/230], Task 0 Loss: 0.0905, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [3/60], Step [51/230], Task 0 Loss: 0.0895, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [3/60], Step [101/230], Task 0 Loss: 0.0356, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [3/60], Step [151/230], Task 0 Loss: 0.0656, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [3/60], Step [201/230], Task 0 Loss: 0.1203, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2525339127
+Epoch [4/60], Step [1/230], Task 0 Loss: 0.0398, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [4/60], Step [51/230], Task 0 Loss: 0.0749, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [4/60], Step [101/230], Task 0 Loss: 0.1126, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [4/60], Step [151/230], Task 0 Loss: 0.1635, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [4/60], Step [201/230], Task 0 Loss: 0.0222, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2445409298
+Epoch [5/60], Step [1/230], Task 0 Loss: 0.0431, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [5/60], Step [51/230], Task 0 Loss: 0.0677, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [5/60], Step [101/230], Task 0 Loss: 0.1476, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [5/60], Step [151/230], Task 0 Loss: 0.0525, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [5/60], Step [201/230], Task 0 Loss: 0.0792, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2748389244
+Epoch [6/60], Step [1/230], Task 0 Loss: 0.0162, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [6/60], Step [51/230], Task 0 Loss: 0.0986, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [6/60], Step [101/230], Task 0 Loss: 0.0332, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [6/60], Step [151/230], Task 0 Loss: 0.0502, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [6/60], Step [201/230], Task 0 Loss: 0.0226, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3300969601
+Epoch [7/60], Step [1/230], Task 0 Loss: 0.0553, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [7/60], Step [51/230], Task 0 Loss: 0.1104, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [7/60], Step [101/230], Task 0 Loss: 0.0741, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [7/60], Step [151/230], Task 0 Loss: 0.0521, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [7/60], Step [201/230], Task 0 Loss: 0.0416, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3315038681
+Epoch [8/60], Step [1/230], Task 0 Loss: 0.0353, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [8/60], Step [51/230], Task 0 Loss: 0.0216, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [8/60], Step [101/230], Task 0 Loss: 0.0728, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [8/60], Step [151/230], Task 0 Loss: 0.0643, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [8/60], Step [201/230], Task 0 Loss: 0.0615, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2322850227
+Epoch [9/60], Step [1/230], Task 0 Loss: 0.0487, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [9/60], Step [51/230], Task 0 Loss: 0.0537, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [9/60], Step [101/230], Task 0 Loss: 0.0628, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [9/60], Step [151/230], Task 0 Loss: 0.0443, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [9/60], Step [201/230], Task 0 Loss: 0.0278, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2463371754
+Epoch [10/60], Step [1/230], Task 0 Loss: 0.0311, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [10/60], Step [51/230], Task 0 Loss: 0.0650, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [10/60], Step [101/230], Task 0 Loss: 0.0709, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [10/60], Step [151/230], Task 0 Loss: 0.0711, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [10/60], Step [201/230], Task 0 Loss: 0.0585, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2330491543
+Epoch [11/60], Step [1/230], Task 0 Loss: 0.0639, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [11/60], Step [51/230], Task 0 Loss: 0.0271, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [11/60], Step [101/230], Task 0 Loss: 0.0425, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [11/60], Step [151/230], Task 0 Loss: 0.0446, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [11/60], Step [201/230], Task 0 Loss: 0.0353, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2454779148
+Epoch [12/60], Step [1/230], Task 0 Loss: 0.0273, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [12/60], Step [51/230], Task 0 Loss: 0.0365, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [12/60], Step [101/230], Task 0 Loss: 0.0399, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [12/60], Step [151/230], Task 0 Loss: 0.0372, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [12/60], Step [201/230], Task 0 Loss: 0.0238, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.275578022
+Epoch [13/60], Step [1/230], Task 0 Loss: 0.1232, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [13/60], Step [51/230], Task 0 Loss: 0.0140, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [13/60], Step [101/230], Task 0 Loss: 0.0159, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [13/60], Step [151/230], Task 0 Loss: 0.0699, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [13/60], Step [201/230], Task 0 Loss: 0.0214, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2410588264
+Epoch [14/60], Step [1/230], Task 0 Loss: 0.0780, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [14/60], Step [51/230], Task 0 Loss: 0.0238, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [14/60], Step [101/230], Task 0 Loss: 0.0316, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [14/60], Step [151/230], Task 0 Loss: 0.0504, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [14/60], Step [201/230], Task 0 Loss: 0.0918, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3549900055
+Epoch [15/60], Step [1/230], Task 0 Loss: 0.0212, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [15/60], Step [51/230], Task 0 Loss: 0.0303, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [15/60], Step [101/230], Task 0 Loss: 0.0151, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [15/60], Step [151/230], Task 0 Loss: 0.0078, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [15/60], Step [201/230], Task 0 Loss: 0.0420, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3649871349
+Epoch [16/60], Step [1/230], Task 0 Loss: 0.0119, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [16/60], Step [51/230], Task 0 Loss: 0.0536, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [16/60], Step [101/230], Task 0 Loss: 0.0265, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [16/60], Step [151/230], Task 0 Loss: 0.0120, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [16/60], Step [201/230], Task 0 Loss: 0.0180, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3110468388
+Epoch [17/60], Step [1/230], Task 0 Loss: 0.0180, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [17/60], Step [51/230], Task 0 Loss: 0.0243, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [17/60], Step [101/230], Task 0 Loss: 0.0267, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [17/60], Step [151/230], Task 0 Loss: 0.0347, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [17/60], Step [201/230], Task 0 Loss: 0.0110, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2632791996
+Epoch [18/60], Step [1/230], Task 0 Loss: 0.0340, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [18/60], Step [51/230], Task 0 Loss: 0.0527, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [18/60], Step [101/230], Task 0 Loss: 0.0142, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [18/60], Step [151/230], Task 0 Loss: 0.0116, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [18/60], Step [201/230], Task 0 Loss: 0.0095, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2262198925
+Epoch [19/60], Step [1/230], Task 0 Loss: 0.0449, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [19/60], Step [51/230], Task 0 Loss: 0.0356, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [19/60], Step [101/230], Task 0 Loss: 0.0156, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [19/60], Step [151/230], Task 0 Loss: 0.2310, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [19/60], Step [201/230], Task 0 Loss: 0.0020, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.261318922
+Epoch [20/60], Step [1/230], Task 0 Loss: 0.0137, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [20/60], Step [51/230], Task 0 Loss: 0.0122, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [20/60], Step [101/230], Task 0 Loss: 0.0271, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [20/60], Step [151/230], Task 0 Loss: 0.0144, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [20/60], Step [201/230], Task 0 Loss: 0.0263, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3238618374
+Epoch [21/60], Step [1/230], Task 0 Loss: 0.0397, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [21/60], Step [51/230], Task 0 Loss: 0.0243, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [21/60], Step [101/230], Task 0 Loss: 0.0275, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [21/60], Step [151/230], Task 0 Loss: 0.0120, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [21/60], Step [201/230], Task 0 Loss: 0.0298, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3324799538
+Epoch [22/60], Step [1/230], Task 0 Loss: 0.0146, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [22/60], Step [51/230], Task 0 Loss: 0.0098, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [22/60], Step [101/230], Task 0 Loss: 0.0437, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [22/60], Step [151/230], Task 0 Loss: 0.0165, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [22/60], Step [201/230], Task 0 Loss: 0.0072, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3605730534
+Epoch [23/60], Step [1/230], Task 0 Loss: 0.0096, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [23/60], Step [51/230], Task 0 Loss: 0.0136, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [23/60], Step [101/230], Task 0 Loss: 0.0038, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [23/60], Step [151/230], Task 0 Loss: 0.0399, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [23/60], Step [201/230], Task 0 Loss: 0.0361, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3015429974
+Epoch [24/60], Step [1/230], Task 0 Loss: 0.0039, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [24/60], Step [51/230], Task 0 Loss: 0.0680, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [24/60], Step [101/230], Task 0 Loss: 0.0096, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [24/60], Step [151/230], Task 0 Loss: 0.0405, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [24/60], Step [201/230], Task 0 Loss: 0.0203, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2617819309
+Epoch [25/60], Step [1/230], Task 0 Loss: 0.0529, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [25/60], Step [51/230], Task 0 Loss: 0.0030, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [25/60], Step [101/230], Task 0 Loss: 0.0702, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [25/60], Step [151/230], Task 0 Loss: 0.0636, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [25/60], Step [201/230], Task 0 Loss: 0.0110, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3333249092
+Epoch [26/60], Step [1/230], Task 0 Loss: 0.0173, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [26/60], Step [51/230], Task 0 Loss: 0.0207, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [26/60], Step [101/230], Task 0 Loss: 0.0350, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [26/60], Step [151/230], Task 0 Loss: 0.0137, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [26/60], Step [201/230], Task 0 Loss: 0.0261, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2667400837
+Epoch [27/60], Step [1/230], Task 0 Loss: 0.0463, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [27/60], Step [51/230], Task 0 Loss: 0.0098, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [27/60], Step [101/230], Task 0 Loss: 0.0143, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [27/60], Step [151/230], Task 0 Loss: 0.0274, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [27/60], Step [201/230], Task 0 Loss: 0.0113, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.264621973
+Epoch [28/60], Step [1/230], Task 0 Loss: 0.0341, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [28/60], Step [51/230], Task 0 Loss: 0.0110, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [28/60], Step [101/230], Task 0 Loss: 0.0266, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [28/60], Step [151/230], Task 0 Loss: 0.0152, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [28/60], Step [201/230], Task 0 Loss: 0.0142, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2720520496
+Epoch [29/60], Step [1/230], Task 0 Loss: 0.0473, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [29/60], Step [51/230], Task 0 Loss: 0.0222, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [29/60], Step [101/230], Task 0 Loss: 0.0160, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [29/60], Step [151/230], Task 0 Loss: 0.0056, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [29/60], Step [201/230], Task 0 Loss: 0.0327, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3167321682
+Epoch [30/60], Step [1/230], Task 0 Loss: 0.0128, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [30/60], Step [51/230], Task 0 Loss: 0.0234, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [30/60], Step [101/230], Task 0 Loss: 0.0405, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [30/60], Step [151/230], Task 0 Loss: 0.0080, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [30/60], Step [201/230], Task 0 Loss: 0.0197, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3189461231
+Epoch [31/60], Step [1/230], Task 0 Loss: 0.0136, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [31/60], Step [51/230], Task 0 Loss: 0.0098, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [31/60], Step [101/230], Task 0 Loss: 0.0183, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [31/60], Step [151/230], Task 0 Loss: 0.0028, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [31/60], Step [201/230], Task 0 Loss: 0.0387, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.417399168
+Epoch [32/60], Step [1/230], Task 0 Loss: 0.0493, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [32/60], Step [51/230], Task 0 Loss: 0.0055, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [32/60], Step [101/230], Task 0 Loss: 0.0091, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [32/60], Step [151/230], Task 0 Loss: 0.0113, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [32/60], Step [201/230], Task 0 Loss: 0.0089, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.4743709564
+Epoch [33/60], Step [1/230], Task 0 Loss: 0.0194, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [33/60], Step [51/230], Task 0 Loss: 0.0269, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [33/60], Step [101/230], Task 0 Loss: 0.0105, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [33/60], Step [151/230], Task 0 Loss: 0.0754, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [33/60], Step [201/230], Task 0 Loss: 0.0256, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.4483239651
+Epoch [34/60], Step [1/230], Task 0 Loss: 0.0075, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [34/60], Step [51/230], Task 0 Loss: 0.0427, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [34/60], Step [101/230], Task 0 Loss: 0.0272, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [34/60], Step [151/230], Task 0 Loss: 0.0091, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [34/60], Step [201/230], Task 0 Loss: 0.0575, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.4152979851
+Epoch [35/60], Step [1/230], Task 0 Loss: 0.0101, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [35/60], Step [51/230], Task 0 Loss: 0.0050, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [35/60], Step [101/230], Task 0 Loss: 0.0661, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [35/60], Step [151/230], Task 0 Loss: 0.0192, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [35/60], Step [201/230], Task 0 Loss: 0.0027, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3071050644
+Epoch [36/60], Step [1/230], Task 0 Loss: 0.0342, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [36/60], Step [51/230], Task 0 Loss: 0.0153, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [36/60], Step [101/230], Task 0 Loss: 0.0380, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [36/60], Step [151/230], Task 0 Loss: 0.0069, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [36/60], Step [201/230], Task 0 Loss: 0.0061, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3001298904
+Epoch [37/60], Step [1/230], Task 0 Loss: 0.0295, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [37/60], Step [51/230], Task 0 Loss: 0.0528, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [37/60], Step [101/230], Task 0 Loss: 0.0279, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [37/60], Step [151/230], Task 0 Loss: 0.0233, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [37/60], Step [201/230], Task 0 Loss: 0.0031, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3725178242
+Epoch [38/60], Step [1/230], Task 0 Loss: 0.0034, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [38/60], Step [51/230], Task 0 Loss: 0.0095, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [38/60], Step [101/230], Task 0 Loss: 0.0231, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [38/60], Step [151/230], Task 0 Loss: 0.0228, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [38/60], Step [201/230], Task 0 Loss: 0.0036, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2835199833
+Epoch [39/60], Step [1/230], Task 0 Loss: 0.0540, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [39/60], Step [51/230], Task 0 Loss: 0.0283, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [39/60], Step [101/230], Task 0 Loss: 0.0169, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [39/60], Step [151/230], Task 0 Loss: 0.0029, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [39/60], Step [201/230], Task 0 Loss: 0.0102, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2728891373
+Epoch [40/60], Step [1/230], Task 0 Loss: 0.0300, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [40/60], Step [51/230], Task 0 Loss: 0.0061, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [40/60], Step [101/230], Task 0 Loss: 0.0138, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [40/60], Step [151/230], Task 0 Loss: 0.0083, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [40/60], Step [201/230], Task 0 Loss: 0.0029, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2737579346
+Epoch [41/60], Step [1/230], Task 0 Loss: 0.0066, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [41/60], Step [51/230], Task 0 Loss: 0.0113, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [41/60], Step [101/230], Task 0 Loss: 0.0076, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [41/60], Step [151/230], Task 0 Loss: 0.0613, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [41/60], Step [201/230], Task 0 Loss: 0.0162, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2463247776
+Epoch [42/60], Step [1/230], Task 0 Loss: 0.0090, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [42/60], Step [51/230], Task 0 Loss: 0.0116, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [42/60], Step [101/230], Task 0 Loss: 0.0125, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [42/60], Step [151/230], Task 0 Loss: 0.0128, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [42/60], Step [201/230], Task 0 Loss: 0.0025, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2271127701
+Epoch [43/60], Step [1/230], Task 0 Loss: 0.0381, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [43/60], Step [51/230], Task 0 Loss: 0.0187, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [43/60], Step [101/230], Task 0 Loss: 0.0124, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [43/60], Step [151/230], Task 0 Loss: 0.0038, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [43/60], Step [201/230], Task 0 Loss: 0.0099, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2603919506
+Epoch [44/60], Step [1/230], Task 0 Loss: 0.0098, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [44/60], Step [51/230], Task 0 Loss: 0.0346, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [44/60], Step [101/230], Task 0 Loss: 0.0222, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [44/60], Step [151/230], Task 0 Loss: 0.0025, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [44/60], Step [201/230], Task 0 Loss: 0.0172, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3048372269
+Epoch [45/60], Step [1/230], Task 0 Loss: 0.0385, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [45/60], Step [51/230], Task 0 Loss: 0.0163, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [45/60], Step [101/230], Task 0 Loss: 0.0272, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [45/60], Step [151/230], Task 0 Loss: 0.0047, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [45/60], Step [201/230], Task 0 Loss: 0.0167, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3006579876
+Epoch [46/60], Step [1/230], Task 0 Loss: 0.0606, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [46/60], Step [51/230], Task 0 Loss: 0.0341, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [46/60], Step [101/230], Task 0 Loss: 0.0173, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [46/60], Step [151/230], Task 0 Loss: 0.0060, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [46/60], Step [201/230], Task 0 Loss: 0.0353, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2902510166
+Epoch [47/60], Step [1/230], Task 0 Loss: 0.0174, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [47/60], Step [51/230], Task 0 Loss: 0.0071, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [47/60], Step [101/230], Task 0 Loss: 0.0099, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [47/60], Step [151/230], Task 0 Loss: 0.0116, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [47/60], Step [201/230], Task 0 Loss: 0.0133, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2524240017
+Epoch [48/60], Step [1/230], Task 0 Loss: 0.0072, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [48/60], Step [51/230], Task 0 Loss: 0.0131, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [48/60], Step [101/230], Task 0 Loss: 0.0150, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [48/60], Step [151/230], Task 0 Loss: 0.0232, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [48/60], Step [201/230], Task 0 Loss: 0.0146, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.236536026
+Epoch [49/60], Step [1/230], Task 0 Loss: 0.0102, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [49/60], Step [51/230], Task 0 Loss: 0.0376, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [49/60], Step [101/230], Task 0 Loss: 0.0100, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [49/60], Step [151/230], Task 0 Loss: 0.0045, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [49/60], Step [201/230], Task 0 Loss: 0.0028, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.292098999
+Epoch [50/60], Step [1/230], Task 0 Loss: 0.0025, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [50/60], Step [51/230], Task 0 Loss: 0.0189, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [50/60], Step [101/230], Task 0 Loss: 0.0011, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [50/60], Step [151/230], Task 0 Loss: 0.0115, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [50/60], Step [201/230], Task 0 Loss: 0.0021, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2260699272
+Epoch [51/60], Step [1/230], Task 0 Loss: 0.0014, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [51/60], Step [51/230], Task 0 Loss: 0.0010, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [51/60], Step [101/230], Task 0 Loss: 0.0321, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [51/60], Step [151/230], Task 0 Loss: 0.0062, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [51/60], Step [201/230], Task 0 Loss: 0.0030, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3282170296
+Epoch [52/60], Step [1/230], Task 0 Loss: 0.0022, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [52/60], Step [51/230], Task 0 Loss: 0.0049, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [52/60], Step [101/230], Task 0 Loss: 0.0109, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [52/60], Step [151/230], Task 0 Loss: 0.0065, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [52/60], Step [201/230], Task 0 Loss: 0.0008, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3157849312
+Epoch [53/60], Step [1/230], Task 0 Loss: 0.0244, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [53/60], Step [51/230], Task 0 Loss: 0.0127, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [53/60], Step [101/230], Task 0 Loss: 0.0014, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [53/60], Step [151/230], Task 0 Loss: 0.0079, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [53/60], Step [201/230], Task 0 Loss: 0.0020, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2679469585
+Epoch [54/60], Step [1/230], Task 0 Loss: 0.0013, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [54/60], Step [51/230], Task 0 Loss: 0.0132, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [54/60], Step [101/230], Task 0 Loss: 0.0036, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [54/60], Step [151/230], Task 0 Loss: 0.0166, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [54/60], Step [201/230], Task 0 Loss: 0.0016, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2566761971
+Epoch [55/60], Step [1/230], Task 0 Loss: 0.0044, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [55/60], Step [51/230], Task 0 Loss: 0.0099, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [55/60], Step [101/230], Task 0 Loss: 0.0043, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [55/60], Step [151/230], Task 0 Loss: 0.0074, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [55/60], Step [201/230], Task 0 Loss: 0.0162, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2724261284
+Epoch [56/60], Step [1/230], Task 0 Loss: 0.0016, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [56/60], Step [51/230], Task 0 Loss: 0.0003, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [56/60], Step [101/230], Task 0 Loss: 0.0007, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [56/60], Step [151/230], Task 0 Loss: 0.0052, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [56/60], Step [201/230], Task 0 Loss: 0.0019, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2785491943
+Epoch [57/60], Step [1/230], Task 0 Loss: 0.0211, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [57/60], Step [51/230], Task 0 Loss: 0.0023, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [57/60], Step [101/230], Task 0 Loss: 0.0013, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [57/60], Step [151/230], Task 0 Loss: 0.0174, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [57/60], Step [201/230], Task 0 Loss: 0.0024, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.2655398846
+Epoch [58/60], Step [1/230], Task 0 Loss: 0.0076, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [58/60], Step [51/230], Task 0 Loss: 0.0037, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [58/60], Step [101/230], Task 0 Loss: 0.0049, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [58/60], Step [151/230], Task 0 Loss: 0.0024, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [58/60], Step [201/230], Task 0 Loss: 0.0012, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3337972164
+Epoch [59/60], Step [1/230], Task 0 Loss: 0.0015, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [59/60], Step [51/230], Task 0 Loss: 0.0040, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [59/60], Step [101/230], Task 0 Loss: 0.0037, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [59/60], Step [151/230], Task 0 Loss: 0.0011, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [59/60], Step [201/230], Task 0 Loss: 0.0007, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.347424984
+Epoch [60/60], Step [1/230], Task 0 Loss: 0.0247, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [60/60], Step [51/230], Task 0 Loss: 0.0064, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [60/60], Step [101/230], Task 0 Loss: 0.0140, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [60/60], Step [151/230], Task 0 Loss: 0.0033, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch [60/60], Step [201/230], Task 0 Loss: 0.0058, Acc Val: 0.0000, Acc Avg: 0.0000
+Epoch lasted 16.3033468723

@@ -1,0 +1,1 @@
+{"aircraft": 0.0005, "cifar100": 0.0005, "daimlerpedcls": 0.0005, "dtd": 0.002, "gtsrb": 0.0003, "omniglot": 0.0005, "svhn": 0.0002, "ucf101": 0.0005, "vgg-flowers": 0.0001, "imagenet12": 0.0001}

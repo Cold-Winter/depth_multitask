@@ -1,0 +1,1 @@
+{"ckpdir": "./new_log/", "imdbdir": "../residual_adapters/data/decathlon-1.0/annotations/", "datadir": "../residual_adapters/data/decathlon-1.0/", "seed": 0, "lr": 0.1, "step2": 100, "step1": 80, "factor": 1.0, "nb_epochs": 120}

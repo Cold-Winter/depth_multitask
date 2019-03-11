@@ -1,0 +1,16 @@
+*.DS_Store
+*.gz
+*/data/*
+*.pyc
+*.swp
+*.swo
+.nfs*
+*/cv/*
+*/tmp/*
+*/datasets/*
+*.t7
+*/cifar10/*
+*/finetuned_models/*
+*/pretrained_model_on_train_and_val/*
+*/models_train_depth_wise_convs_on_train/*
+*/models_train_depth_wise_convs_on_train_and_val/*

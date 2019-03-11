@@ -1,0 +1,789 @@
+loading annotations into memory...
+Done (t=0.03s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.03s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.36s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.08s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.21s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.04s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.31s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.12s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.14s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.05s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.43s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.28s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.06s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+loading annotations into memory...
+Done (t=0.01s)
+creating index...
+index created!
+aircraft
+params number
+978276
+Epoch [1/10], Step [1/53], Task 0 Loss: 2.1861, Acc Val: 42.1875, Acc Avg: 42.1875
+Epoch [1/10], Step [51/53], Task 0 Loss: 1.5020, Acc Val: 59.3750, Acc Avg: 48.3303
+test accuracy
+Epoch [1/10], Task 0 Loss: 1.2931, Acc Val: 87.8788, Acc Avg: 62.5263
+Epoch lasted 17.8590090275
+Epoch [2/10], Step [1/53], Task 0 Loss: 1.5843, Acc Val: 53.1250, Acc Avg: 53.1250
+Epoch [2/10], Step [51/53], Task 0 Loss: 1.5360, Acc Val: 50.7812, Acc Avg: 57.1078
+test accuracy
+Epoch [2/10], Task 0 Loss: 1.0232, Acc Val: 87.8788, Acc Avg: 71.6772
+Epoch lasted 11.6752638817
+Epoch [3/10], Step [1/53], Task 0 Loss: 1.1528, Acc Val: 65.6250, Acc Avg: 65.6250
+Epoch [3/10], Step [51/53], Task 0 Loss: 1.2461, Acc Val: 69.5312, Acc Avg: 60.3248
+test accuracy
+Epoch [3/10], Task 0 Loss: 1.1685, Acc Val: 90.9091, Acc Avg: 67.6268
+Epoch lasted 11.168282032
+Epoch [4/10], Step [1/53], Task 0 Loss: 1.1886, Acc Val: 62.5000, Acc Avg: 62.5000
+Epoch [4/10], Step [51/53], Task 0 Loss: 1.2479, Acc Val: 61.7188, Acc Avg: 61.0294
+test accuracy
+Epoch [4/10], Task 0 Loss: 1.0896, Acc Val: 96.9697, Acc Avg: 66.6067
+Epoch lasted 11.155066967
+Epoch [5/10], Step [1/53], Task 0 Loss: 0.7885, Acc Val: 75.7812, Acc Avg: 75.7812
+Epoch [5/10], Step [51/53], Task 0 Loss: 1.0435, Acc Val: 67.9688, Acc Avg: 63.1434
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.9458, Acc Val: 96.9697, Acc Avg: 72.7873
+Epoch lasted 11.474642992
+Epoch [6/10], Step [1/53], Task 0 Loss: 1.0733, Acc Val: 67.9688, Acc Avg: 67.9688
+Epoch [6/10], Step [51/53], Task 0 Loss: 0.9157, Acc Val: 71.8750, Acc Avg: 71.5686
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.4828, Acc Val: 96.9697, Acc Avg: 90.4590
+Epoch lasted 11.5850450993
+Epoch [7/10], Step [1/53], Task 0 Loss: 0.8214, Acc Val: 75.7812, Acc Avg: 75.7812
+Epoch [7/10], Step [51/53], Task 0 Loss: 0.9470, Acc Val: 73.4375, Acc Avg: 75.5821
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.4425, Acc Val: 100.0000, Acc Avg: 91.3891
+Epoch lasted 11.7440199852
+Epoch [8/10], Step [1/53], Task 0 Loss: 0.9340, Acc Val: 73.4375, Acc Avg: 73.4375
+Epoch [8/10], Step [51/53], Task 0 Loss: 0.9392, Acc Val: 70.3125, Acc Avg: 76.5625
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.4213, Acc Val: 100.0000, Acc Avg: 91.7192
+Epoch lasted 11.3670048714
+Epoch [9/10], Step [1/53], Task 0 Loss: 0.9036, Acc Val: 71.8750, Acc Avg: 71.8750
+Epoch [9/10], Step [51/53], Task 0 Loss: 0.7056, Acc Val: 84.3750, Acc Avg: 78.5999
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.3972, Acc Val: 100.0000, Acc Avg: 92.5893
+Epoch lasted 11.6999371052
+Epoch [10/10], Step [1/53], Task 0 Loss: 0.6125, Acc Val: 83.5938, Acc Avg: 83.5938
+Epoch [10/10], Step [51/53], Task 0 Loss: 0.7463, Acc Val: 78.9062, Acc Avg: 78.3701
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.3800, Acc Val: 100.0000, Acc Avg: 93.3093
+Epoch lasted 11.6868479252
+cifar100
+params number
+978276
+Epoch [1/10], Step [1/391], Task 0 Loss: 0.4634, Acc Val: 87.5000, Acc Avg: 87.5000
+Epoch [1/10], Step [51/391], Task 0 Loss: 1.0773, Acc Val: 66.4062, Acc Avg: 69.9755
+Epoch [1/10], Step [101/391], Task 0 Loss: 0.9883, Acc Val: 69.5312, Acc Avg: 69.7246
+Epoch [1/10], Step [151/391], Task 0 Loss: 1.0591, Acc Val: 65.6250, Acc Avg: 70.8868
+Epoch [1/10], Step [201/391], Task 0 Loss: 0.9018, Acc Val: 75.0000, Acc Avg: 71.3853
+Epoch [1/10], Step [251/391], Task 0 Loss: 0.9667, Acc Val: 66.4062, Acc Avg: 72.0991
+Epoch [1/10], Step [301/391], Task 0 Loss: 0.7746, Acc Val: 72.6562, Acc Avg: 72.5862
+Epoch [1/10], Step [351/391], Task 0 Loss: 0.7991, Acc Val: 71.0938, Acc Avg: 72.9523
+test accuracy
+Epoch [1/10], Task 0 Loss: 0.8427, Acc Val: 58.0000, Acc Avg: 76.0800
+Epoch lasted 64.342468977
+Epoch [2/10], Step [1/391], Task 0 Loss: 0.5923, Acc Val: 82.0312, Acc Avg: 82.0312
+Epoch [2/10], Step [51/391], Task 0 Loss: 0.6538, Acc Val: 82.8125, Acc Avg: 80.5147
+Epoch [2/10], Step [101/391], Task 0 Loss: 0.5376, Acc Val: 82.8125, Acc Avg: 80.1129
+Epoch [2/10], Step [151/391], Task 0 Loss: 0.8215, Acc Val: 75.7812, Acc Avg: 79.8220
+Epoch [2/10], Step [201/391], Task 0 Loss: 0.7532, Acc Val: 75.7812, Acc Avg: 79.5204
+Epoch [2/10], Step [251/391], Task 0 Loss: 0.6283, Acc Val: 80.4688, Acc Avg: 79.2891
+Epoch [2/10], Step [301/391], Task 0 Loss: 0.6952, Acc Val: 78.1250, Acc Avg: 79.1710
+Epoch [2/10], Step [351/391], Task 0 Loss: 0.8354, Acc Val: 75.0000, Acc Avg: 78.9152
+test accuracy
+Epoch [2/10], Task 0 Loss: 0.7813, Acc Val: 85.0000, Acc Avg: 77.0900
+Epoch lasted 64.220072031
+Epoch [3/10], Step [1/391], Task 0 Loss: 0.5706, Acc Val: 85.9375, Acc Avg: 85.9375
+Epoch [3/10], Step [51/391], Task 0 Loss: 0.7999, Acc Val: 73.4375, Acc Avg: 80.5147
+Epoch [3/10], Step [101/391], Task 0 Loss: 0.6080, Acc Val: 82.0312, Acc Avg: 80.7008
+Epoch [3/10], Step [151/391], Task 0 Loss: 0.6363, Acc Val: 77.3438, Acc Avg: 80.7016
+Epoch [3/10], Step [201/391], Task 0 Loss: 0.7285, Acc Val: 78.1250, Acc Avg: 80.6475
+Epoch [3/10], Step [251/391], Task 0 Loss: 0.6288, Acc Val: 79.6875, Acc Avg: 80.5684
+Epoch [3/10], Step [301/391], Task 0 Loss: 0.7434, Acc Val: 76.5625, Acc Avg: 80.2663
+Epoch [3/10], Step [351/391], Task 0 Loss: 0.7319, Acc Val: 77.3438, Acc Avg: 80.0993
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.6793, Acc Val: 78.0000, Acc Avg: 79.6700
+Epoch lasted 63.9716367722
+Epoch [4/10], Step [1/391], Task 0 Loss: 0.6227, Acc Val: 79.6875, Acc Avg: 79.6875
+Epoch [4/10], Step [51/391], Task 0 Loss: 0.4550, Acc Val: 85.9375, Acc Avg: 82.9810
+Epoch [4/10], Step [101/391], Task 0 Loss: 0.6520, Acc Val: 79.6875, Acc Avg: 82.2014
+Epoch [4/10], Step [151/391], Task 0 Loss: 0.5909, Acc Val: 82.8125, Acc Avg: 81.8812
+Epoch [4/10], Step [201/391], Task 0 Loss: 0.6119, Acc Val: 81.2500, Acc Avg: 81.5299
+Epoch [4/10], Step [251/391], Task 0 Loss: 0.8535, Acc Val: 75.0000, Acc Avg: 81.2313
+Epoch [4/10], Step [301/391], Task 0 Loss: 0.7347, Acc Val: 78.9062, Acc Avg: 80.8295
+Epoch [4/10], Step [351/391], Task 0 Loss: 0.6889, Acc Val: 79.6875, Acc Avg: 80.7959
+test accuracy
+Epoch [4/10], Task 0 Loss: 0.7540, Acc Val: 75.0000, Acc Avg: 77.8800
+Epoch lasted 64.3366239071
+Epoch [5/10], Step [1/391], Task 0 Loss: 0.6282, Acc Val: 78.9062, Acc Avg: 78.9062
+Epoch [5/10], Step [51/391], Task 0 Loss: 0.5349, Acc Val: 84.3750, Acc Avg: 83.2261
+Epoch [5/10], Step [101/391], Task 0 Loss: 0.4951, Acc Val: 87.5000, Acc Avg: 82.4567
+Epoch [5/10], Step [151/391], Task 0 Loss: 0.6303, Acc Val: 80.4688, Acc Avg: 82.0054
+Epoch [5/10], Step [201/391], Task 0 Loss: 0.6339, Acc Val: 82.8125, Acc Avg: 81.6620
+Epoch [5/10], Step [251/391], Task 0 Loss: 0.6919, Acc Val: 74.2188, Acc Avg: 81.2811
+Epoch [5/10], Step [301/391], Task 0 Loss: 0.4482, Acc Val: 87.5000, Acc Avg: 81.1851
+Epoch [5/10], Step [351/391], Task 0 Loss: 0.7289, Acc Val: 80.4688, Acc Avg: 80.9495
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.7078, Acc Val: 91.0000, Acc Avg: 78.4600
+Epoch lasted 65.2910380363
+Epoch [6/10], Step [1/391], Task 0 Loss: 0.5530, Acc Val: 83.5938, Acc Avg: 83.5938
+Epoch [6/10], Step [51/391], Task 0 Loss: 0.5038, Acc Val: 85.1562, Acc Avg: 85.5852
+Epoch [6/10], Step [101/391], Task 0 Loss: 0.4418, Acc Val: 85.9375, Acc Avg: 86.2392
+Epoch [6/10], Step [151/391], Task 0 Loss: 0.3573, Acc Val: 89.0625, Acc Avg: 86.9723
+Epoch [6/10], Step [201/391], Task 0 Loss: 0.3501, Acc Val: 92.1875, Acc Avg: 87.5117
+Epoch [6/10], Step [251/391], Task 0 Loss: 0.3054, Acc Val: 89.8438, Acc Avg: 87.8548
+Epoch [6/10], Step [301/391], Task 0 Loss: 0.3758, Acc Val: 88.2812, Acc Avg: 88.1956
+Epoch [6/10], Step [351/391], Task 0 Loss: 0.3638, Acc Val: 88.2812, Acc Avg: 88.3770
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.2874, Acc Val: 94.0000, Acc Avg: 92.9500
+Epoch lasted 65.6927189827
+Epoch [7/10], Step [1/391], Task 0 Loss: 0.2909, Acc Val: 93.7500, Acc Avg: 93.7500
+Epoch [7/10], Step [51/391], Task 0 Loss: 0.2606, Acc Val: 91.4062, Acc Avg: 91.6360
+Epoch [7/10], Step [101/391], Task 0 Loss: 0.2698, Acc Val: 93.7500, Acc Avg: 91.6306
+Epoch [7/10], Step [151/391], Task 0 Loss: 0.3111, Acc Val: 90.6250, Acc Avg: 91.3442
+Epoch [7/10], Step [201/391], Task 0 Loss: 0.3700, Acc Val: 90.6250, Acc Avg: 91.3402
+Epoch [7/10], Step [251/391], Task 0 Loss: 0.2561, Acc Val: 95.3125, Acc Avg: 91.3378
+Epoch [7/10], Step [301/391], Task 0 Loss: 0.2451, Acc Val: 91.4062, Acc Avg: 91.2765
+Epoch [7/10], Step [351/391], Task 0 Loss: 0.2227, Acc Val: 94.5312, Acc Avg: 91.2683
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.2522, Acc Val: 92.0000, Acc Avg: 94.2700
+Epoch lasted 63.5332939625
+Epoch [8/10], Step [1/391], Task 0 Loss: 0.2659, Acc Val: 92.9688, Acc Avg: 92.9688
+Epoch [8/10], Step [51/391], Task 0 Loss: 0.2448, Acc Val: 96.8750, Acc Avg: 92.8309
+Epoch [8/10], Step [101/391], Task 0 Loss: 0.2291, Acc Val: 95.3125, Acc Avg: 92.8140
+Epoch [8/10], Step [151/391], Task 0 Loss: 0.4307, Acc Val: 87.5000, Acc Avg: 92.8239
+Epoch [8/10], Step [201/391], Task 0 Loss: 0.3378, Acc Val: 89.8438, Acc Avg: 92.7550
+Epoch [8/10], Step [251/391], Task 0 Loss: 0.3752, Acc Val: 87.5000, Acc Avg: 92.6046
+Epoch [8/10], Step [301/391], Task 0 Loss: 0.2951, Acc Val: 92.9688, Acc Avg: 92.5275
+Epoch [8/10], Step [351/391], Task 0 Loss: 0.2562, Acc Val: 93.7500, Acc Avg: 92.5414
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.2270, Acc Val: 97.0000, Acc Avg: 95.0000
+Epoch lasted 64.2483839989
+Epoch [9/10], Step [1/391], Task 0 Loss: 0.2182, Acc Val: 95.3125, Acc Avg: 95.3125
+Epoch [9/10], Step [51/391], Task 0 Loss: 0.2822, Acc Val: 91.4062, Acc Avg: 93.2598
+Epoch [9/10], Step [101/391], Task 0 Loss: 0.2694, Acc Val: 93.7500, Acc Avg: 93.1002
+Epoch [9/10], Step [151/391], Task 0 Loss: 0.3006, Acc Val: 91.4062, Acc Avg: 92.9481
+Epoch [9/10], Step [201/391], Task 0 Loss: 0.2448, Acc Val: 93.7500, Acc Avg: 93.0309
+Epoch [9/10], Step [251/391], Task 0 Loss: 0.3191, Acc Val: 91.4062, Acc Avg: 92.9999
+Epoch [9/10], Step [301/391], Task 0 Loss: 0.3015, Acc Val: 92.1875, Acc Avg: 92.9454
+Epoch [9/10], Step [351/391], Task 0 Loss: 0.2444, Acc Val: 93.7500, Acc Avg: 92.9309
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.2110, Acc Val: 92.0000, Acc Avg: 95.6400
+Epoch lasted 64.7957401276
+Epoch [10/10], Step [1/391], Task 0 Loss: 0.1813, Acc Val: 96.8750, Acc Avg: 96.8750
+Epoch [10/10], Step [51/391], Task 0 Loss: 0.2441, Acc Val: 94.5312, Acc Avg: 94.1023
+Epoch [10/10], Step [101/391], Task 0 Loss: 0.2056, Acc Val: 96.0938, Acc Avg: 93.8351
+Epoch [10/10], Step [151/391], Task 0 Loss: 0.2268, Acc Val: 93.7500, Acc Avg: 93.8121
+Epoch [10/10], Step [201/391], Task 0 Loss: 0.2197, Acc Val: 93.7500, Acc Avg: 93.7578
+Epoch [10/10], Step [251/391], Task 0 Loss: 0.3024, Acc Val: 92.9688, Acc Avg: 93.6099
+Epoch [10/10], Step [301/391], Task 0 Loss: 0.2306, Acc Val: 93.7500, Acc Avg: 93.4697
+Epoch [10/10], Step [351/391], Task 0 Loss: 0.2335, Acc Val: 92.9688, Acc Avg: 93.5230
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.1993, Acc Val: 95.0000, Acc Avg: 96.1700
+Epoch lasted 64.8709750175
+daimlerpedcls
+params number
+928002
+Epoch [1/10], Step [1/230], Task 0 Loss: 0.0513, Acc Val: 96.8750, Acc Avg: 96.8750
+Epoch [1/10], Step [51/230], Task 0 Loss: 0.0321, Acc Val: 98.4375, Acc Avg: 98.1771
+Epoch [1/10], Step [101/230], Task 0 Loss: 0.0447, Acc Val: 99.2188, Acc Avg: 98.0972
+Epoch [1/10], Step [151/230], Task 0 Loss: 0.0787, Acc Val: 98.4375, Acc Avg: 98.4996
+Epoch [1/10], Step [201/230], Task 0 Loss: 0.0016, Acc Val: 100.0000, Acc Avg: 98.7523
+test accuracy
+Epoch [1/10], Task 0 Loss: 0.0075, Acc Val: 100.0000, Acc Avg: 99.7279
+Epoch lasted 56.7893550396
+Epoch [2/10], Step [1/230], Task 0 Loss: 0.0118, Acc Val: 99.2188, Acc Avg: 99.2188
+Epoch [2/10], Step [51/230], Task 0 Loss: 0.0245, Acc Val: 98.4375, Acc Avg: 99.7243
+Epoch [2/10], Step [101/230], Task 0 Loss: 0.0022, Acc Val: 100.0000, Acc Avg: 99.6364
+Epoch [2/10], Step [151/230], Task 0 Loss: 0.0008, Acc Val: 100.0000, Acc Avg: 99.6689
+Epoch [2/10], Step [201/230], Task 0 Loss: 0.0004, Acc Val: 100.0000, Acc Avg: 99.6891
+test accuracy
+Epoch [2/10], Task 0 Loss: 0.0244, Acc Val: 100.0000, Acc Avg: 99.2687
+Epoch lasted 54.4930911064
+Epoch [3/10], Step [1/230], Task 0 Loss: 0.0001, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [3/10], Step [51/230], Task 0 Loss: 0.0018, Acc Val: 100.0000, Acc Avg: 99.6936
+Epoch [3/10], Step [101/230], Task 0 Loss: 0.0012, Acc Val: 100.0000, Acc Avg: 99.7602
+Epoch [3/10], Step [151/230], Task 0 Loss: 0.0117, Acc Val: 99.2188, Acc Avg: 99.7620
+Epoch [3/10], Step [201/230], Task 0 Loss: 0.0006, Acc Val: 100.0000, Acc Avg: 99.7707
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.0031, Acc Val: 100.0000, Acc Avg: 99.9490
+Epoch lasted 54.7679901123
+Epoch [4/10], Step [1/230], Task 0 Loss: 0.0009, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [4/10], Step [51/230], Task 0 Loss: 0.0002, Acc Val: 100.0000, Acc Avg: 99.8315
+Epoch [4/10], Step [101/230], Task 0 Loss: 0.0004, Acc Val: 100.0000, Acc Avg: 99.8376
+Epoch [4/10], Step [151/230], Task 0 Loss: 0.0015, Acc Val: 100.0000, Acc Avg: 99.8500
+Epoch [4/10], Step [201/230], Task 0 Loss: 0.0001, Acc Val: 100.0000, Acc Avg: 99.8795
+test accuracy
+Epoch [4/10], Task 0 Loss: 0.0006, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 53.833493948
+Epoch [5/10], Step [1/230], Task 0 Loss: 0.0012, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [5/10], Step [51/230], Task 0 Loss: 0.0008, Acc Val: 100.0000, Acc Avg: 99.9847
+Epoch [5/10], Step [101/230], Task 0 Loss: 0.0020, Acc Val: 100.0000, Acc Avg: 99.9768
+Epoch [5/10], Step [151/230], Task 0 Loss: 0.0001, Acc Val: 100.0000, Acc Avg: 99.9638
+Epoch [5/10], Step [201/230], Task 0 Loss: 0.0010, Acc Val: 100.0000, Acc Avg: 99.9378
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.0029, Acc Val: 100.0000, Acc Avg: 99.9490
+Epoch lasted 54.3116669655
+Epoch [6/10], Step [1/230], Task 0 Loss: 0.0018, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [6/10], Step [51/230], Task 0 Loss: 0.0005, Acc Val: 100.0000, Acc Avg: 99.9234
+Epoch [6/10], Step [101/230], Task 0 Loss: 0.0011, Acc Val: 100.0000, Acc Avg: 99.9536
+Epoch [6/10], Step [151/230], Task 0 Loss: 0.0028, Acc Val: 100.0000, Acc Avg: 99.9638
+Epoch [6/10], Step [201/230], Task 0 Loss: 0.0002, Acc Val: 100.0000, Acc Avg: 99.9650
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.0003, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.8362951279
+Epoch [7/10], Step [1/230], Task 0 Loss: 0.0003, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [7/10], Step [51/230], Task 0 Loss: 0.0048, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [7/10], Step [101/230], Task 0 Loss: 0.0021, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [7/10], Step [151/230], Task 0 Loss: 0.0021, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [7/10], Step [201/230], Task 0 Loss: 0.0020, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.0002, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 55.0929319859
+Epoch [8/10], Step [1/230], Task 0 Loss: 0.0003, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [8/10], Step [51/230], Task 0 Loss: 0.0004, Acc Val: 100.0000, Acc Avg: 99.9847
+Epoch [8/10], Step [101/230], Task 0 Loss: 0.0001, Acc Val: 100.0000, Acc Avg: 99.9845
+Epoch [8/10], Step [151/230], Task 0 Loss: 0.0004, Acc Val: 100.0000, Acc Avg: 99.9897
+Epoch [8/10], Step [201/230], Task 0 Loss: 0.0004, Acc Val: 100.0000, Acc Avg: 99.9883
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.0002, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.960463047
+Epoch [9/10], Step [1/230], Task 0 Loss: 0.0005, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [9/10], Step [51/230], Task 0 Loss: 0.0003, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [9/10], Step [101/230], Task 0 Loss: 0.0001, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [9/10], Step [151/230], Task 0 Loss: 0.0002, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [9/10], Step [201/230], Task 0 Loss: 0.0001, Acc Val: 100.0000, Acc Avg: 99.9922
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.0002, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.3086330891
+Epoch [10/10], Step [1/230], Task 0 Loss: 0.0016, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [51/230], Task 0 Loss: 0.0006, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [101/230], Task 0 Loss: 0.0002, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [151/230], Task 0 Loss: 0.0006, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [201/230], Task 0 Loss: 0.0006, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.0001, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.6729910374
+dtd
+params number
+951087
+Epoch [1/10], Step [1/30], Task 0 Loss: 0.5156, Acc Val: 88.2812, Acc Avg: 88.2812
+test accuracy
+Epoch [1/10], Task 0 Loss: 1.4714, Acc Val: 50.0000, Acc Avg: 59.4149
+Epoch lasted 7.92277407646
+Epoch [2/10], Step [1/30], Task 0 Loss: 0.6474, Acc Val: 83.5938, Acc Avg: 83.5938
+test accuracy
+Epoch [2/10], Task 0 Loss: 1.6348, Acc Val: 60.0000, Acc Avg: 57.1809
+Epoch lasted 7.56007385254
+Epoch [3/10], Step [1/30], Task 0 Loss: 0.6774, Acc Val: 82.0312, Acc Avg: 82.0312
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.8459, Acc Val: 77.5000, Acc Avg: 74.6277
+Epoch lasted 7.67893815041
+Epoch [4/10], Step [1/30], Task 0 Loss: 0.5393, Acc Val: 85.9375, Acc Avg: 85.9375
+test accuracy
+Epoch [4/10], Task 0 Loss: 1.0413, Acc Val: 68.7500, Acc Avg: 69.7340
+Epoch lasted 7.48107218742
+Epoch [5/10], Step [1/30], Task 0 Loss: 0.6773, Acc Val: 78.9062, Acc Avg: 78.9062
+test accuracy
+Epoch [5/10], Task 0 Loss: 1.2622, Acc Val: 68.7500, Acc Avg: 64.8404
+Epoch lasted 7.42412281036
+Epoch [6/10], Step [1/30], Task 0 Loss: 0.6059, Acc Val: 87.5000, Acc Avg: 87.5000
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.1815, Acc Val: 97.5000, Acc Avg: 96.8617
+Epoch lasted 7.48198795319
+Epoch [7/10], Step [1/30], Task 0 Loss: 0.3434, Acc Val: 92.1875, Acc Avg: 92.1875
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.1403, Acc Val: 98.7500, Acc Avg: 98.3511
+Epoch lasted 7.78501820564
+Epoch [8/10], Step [1/30], Task 0 Loss: 0.2761, Acc Val: 95.3125, Acc Avg: 95.3125
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.1206, Acc Val: 98.7500, Acc Avg: 99.0426
+Epoch lasted 7.74033498764
+Epoch [9/10], Step [1/30], Task 0 Loss: 0.2687, Acc Val: 94.5312, Acc Avg: 94.5312
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.1095, Acc Val: 98.7500, Acc Avg: 98.9362
+Epoch lasted 7.59680294991
+Epoch [10/10], Step [1/30], Task 0 Loss: 0.2558, Acc Val: 96.0938, Acc Avg: 96.0938
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.0975, Acc Val: 100.0000, Acc Avg: 99.3085
+Epoch lasted 7.54600000381
+gtsrb
+params number
+949035
+Epoch [1/10], Step [1/307], Task 0 Loss: 0.4833, Acc Val: 92.9688, Acc Avg: 92.9688
+Epoch [1/10], Step [51/307], Task 0 Loss: 0.0214, Acc Val: 99.2188, Acc Avg: 99.3719
+Epoch [1/10], Step [101/307], Task 0 Loss: 0.0111, Acc Val: 100.0000, Acc Avg: 99.5436
+Epoch [1/10], Step [151/307], Task 0 Loss: 0.0082, Acc Val: 100.0000, Acc Avg: 99.6430
+Epoch [1/10], Step [201/307], Task 0 Loss: 0.0107, Acc Val: 100.0000, Acc Avg: 99.6308
+Epoch [1/10], Step [251/307], Task 0 Loss: 0.0033, Acc Val: 100.0000, Acc Avg: 99.6607
+Epoch [1/10], Step [301/307], Task 0 Loss: 0.0092, Acc Val: 100.0000, Acc Avg: 99.6989
+test accuracy
+Epoch [1/10], Task 0 Loss: 0.0920, Acc Val: 100.0000, Acc Avg: 97.2711
+Epoch lasted 53.7768139839
+Epoch [2/10], Step [1/307], Task 0 Loss: 0.0071, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [2/10], Step [51/307], Task 0 Loss: 0.0086, Acc Val: 100.0000, Acc Avg: 99.7855
+Epoch [2/10], Step [101/307], Task 0 Loss: 0.0058, Acc Val: 100.0000, Acc Avg: 99.8298
+Epoch [2/10], Step [151/307], Task 0 Loss: 0.0056, Acc Val: 100.0000, Acc Avg: 99.8551
+Epoch [2/10], Step [201/307], Task 0 Loss: 0.0034, Acc Val: 100.0000, Acc Avg: 99.8406
+Epoch [2/10], Step [251/307], Task 0 Loss: 0.0053, Acc Val: 100.0000, Acc Avg: 99.8101
+Epoch [2/10], Step [301/307], Task 0 Loss: 0.0039, Acc Val: 100.0000, Acc Avg: 99.8209
+test accuracy
+Epoch [2/10], Task 0 Loss: 0.0067, Acc Val: 100.0000, Acc Avg: 99.9107
+Epoch lasted 53.8043110371
+Epoch [3/10], Step [1/307], Task 0 Loss: 0.0054, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [3/10], Step [51/307], Task 0 Loss: 0.0140, Acc Val: 99.2188, Acc Avg: 99.8775
+Epoch [3/10], Step [101/307], Task 0 Loss: 0.0043, Acc Val: 100.0000, Acc Avg: 99.8917
+Epoch [3/10], Step [151/307], Task 0 Loss: 0.0078, Acc Val: 100.0000, Acc Avg: 99.9172
+Epoch [3/10], Step [201/307], Task 0 Loss: 0.0031, Acc Val: 100.0000, Acc Avg: 99.9223
+Epoch [3/10], Step [251/307], Task 0 Loss: 0.0016, Acc Val: 100.0000, Acc Avg: 99.9284
+Epoch [3/10], Step [301/307], Task 0 Loss: 0.0065, Acc Val: 100.0000, Acc Avg: 99.9299
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.0028, Acc Val: 100.0000, Acc Avg: 99.9362
+Epoch lasted 54.3001949787
+Epoch [4/10], Step [1/307], Task 0 Loss: 0.0045, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [4/10], Step [51/307], Task 0 Loss: 0.0029, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [4/10], Step [101/307], Task 0 Loss: 0.0084, Acc Val: 100.0000, Acc Avg: 99.9691
+Epoch [4/10], Step [151/307], Task 0 Loss: 0.0036, Acc Val: 100.0000, Acc Avg: 99.9534
+Epoch [4/10], Step [201/307], Task 0 Loss: 0.0246, Acc Val: 99.2188, Acc Avg: 99.9417
+Epoch [4/10], Step [251/307], Task 0 Loss: 0.0119, Acc Val: 100.0000, Acc Avg: 99.9253
+Epoch [4/10], Step [301/307], Task 0 Loss: 0.0047, Acc Val: 100.0000, Acc Avg: 99.9092
+test accuracy
+Epoch [4/10], Task 0 Loss: 0.0148, Acc Val: 100.0000, Acc Avg: 99.7450
+Epoch lasted 54.1161160469
+Epoch [5/10], Step [1/307], Task 0 Loss: 0.0054, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [5/10], Step [51/307], Task 0 Loss: 0.0036, Acc Val: 100.0000, Acc Avg: 99.9081
+Epoch [5/10], Step [101/307], Task 0 Loss: 0.0028, Acc Val: 100.0000, Acc Avg: 99.9226
+Epoch [5/10], Step [151/307], Task 0 Loss: 0.0034, Acc Val: 100.0000, Acc Avg: 99.9017
+Epoch [5/10], Step [201/307], Task 0 Loss: 0.0033, Acc Val: 100.0000, Acc Avg: 99.9262
+Epoch [5/10], Step [251/307], Task 0 Loss: 0.0250, Acc Val: 99.2188, Acc Avg: 99.9222
+Epoch [5/10], Step [301/307], Task 0 Loss: 0.0040, Acc Val: 100.0000, Acc Avg: 99.9221
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.0161, Acc Val: 100.0000, Acc Avg: 99.7705
+Epoch lasted 54.1401259899
+Epoch [6/10], Step [1/307], Task 0 Loss: 0.0029, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [6/10], Step [51/307], Task 0 Loss: 0.0037, Acc Val: 100.0000, Acc Avg: 99.9234
+Epoch [6/10], Step [101/307], Task 0 Loss: 0.0050, Acc Val: 100.0000, Acc Avg: 99.9613
+Epoch [6/10], Step [151/307], Task 0 Loss: 0.0020, Acc Val: 100.0000, Acc Avg: 99.9638
+Epoch [6/10], Step [201/307], Task 0 Loss: 0.0020, Acc Val: 100.0000, Acc Avg: 99.9650
+Epoch [6/10], Step [251/307], Task 0 Loss: 0.0031, Acc Val: 100.0000, Acc Avg: 99.9720
+Epoch [6/10], Step [301/307], Task 0 Loss: 0.0020, Acc Val: 100.0000, Acc Avg: 99.9740
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.0007, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.0765230656
+Epoch [7/10], Step [1/307], Task 0 Loss: 0.0029, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [7/10], Step [51/307], Task 0 Loss: 0.0028, Acc Val: 100.0000, Acc Avg: 99.9847
+Epoch [7/10], Step [101/307], Task 0 Loss: 0.0015, Acc Val: 100.0000, Acc Avg: 99.9923
+Epoch [7/10], Step [151/307], Task 0 Loss: 0.0031, Acc Val: 100.0000, Acc Avg: 99.9897
+Epoch [7/10], Step [201/307], Task 0 Loss: 0.0018, Acc Val: 100.0000, Acc Avg: 99.9922
+Epoch [7/10], Step [251/307], Task 0 Loss: 0.0025, Acc Val: 100.0000, Acc Avg: 99.9907
+Epoch [7/10], Step [301/307], Task 0 Loss: 0.0023, Acc Val: 100.0000, Acc Avg: 99.9922
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.0006, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.4606730938
+Epoch [8/10], Step [1/307], Task 0 Loss: 0.0014, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [8/10], Step [51/307], Task 0 Loss: 0.0021, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [8/10], Step [101/307], Task 0 Loss: 0.0014, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [8/10], Step [151/307], Task 0 Loss: 0.0015, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [8/10], Step [201/307], Task 0 Loss: 0.0046, Acc Val: 100.0000, Acc Avg: 99.9961
+Epoch [8/10], Step [251/307], Task 0 Loss: 0.0020, Acc Val: 100.0000, Acc Avg: 99.9938
+Epoch [8/10], Step [301/307], Task 0 Loss: 0.0013, Acc Val: 100.0000, Acc Avg: 99.9948
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.0005, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.2993378639
+Epoch [9/10], Step [1/307], Task 0 Loss: 0.0011, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [9/10], Step [51/307], Task 0 Loss: 0.0016, Acc Val: 100.0000, Acc Avg: 99.9847
+Epoch [9/10], Step [101/307], Task 0 Loss: 0.0030, Acc Val: 100.0000, Acc Avg: 99.9923
+Epoch [9/10], Step [151/307], Task 0 Loss: 0.0020, Acc Val: 100.0000, Acc Avg: 99.9948
+Epoch [9/10], Step [201/307], Task 0 Loss: 0.0018, Acc Val: 100.0000, Acc Avg: 99.9961
+Epoch [9/10], Step [251/307], Task 0 Loss: 0.0013, Acc Val: 100.0000, Acc Avg: 99.9969
+Epoch [9/10], Step [301/307], Task 0 Loss: 0.0114, Acc Val: 99.2188, Acc Avg: 99.9948
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.0005, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 53.8507180214
+Epoch [10/10], Step [1/307], Task 0 Loss: 0.0024, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [51/307], Task 0 Loss: 0.0018, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [101/307], Task 0 Loss: 0.0032, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [151/307], Task 0 Loss: 0.0016, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [201/307], Task 0 Loss: 0.0017, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [251/307], Task 0 Loss: 0.0014, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [301/307], Task 0 Loss: 0.0010, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.0005, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 54.339069128
+omniglot
+params number
+1759575
+Epoch [1/10], Step [1/191], Task 0 Loss: 2.0950, Acc Val: 87.5000, Acc Avg: 87.5000
+Epoch [1/10], Step [51/191], Task 0 Loss: 0.4348, Acc Val: 92.1875, Acc Avg: 89.9357
+Epoch [1/10], Step [101/191], Task 0 Loss: 0.3316, Acc Val: 92.1875, Acc Avg: 90.4780
+Epoch [1/10], Step [151/191], Task 0 Loss: 0.4625, Acc Val: 88.2812, Acc Avg: 90.9820
+test accuracy
+Epoch [1/10], Task 0 Loss: 0.2542, Acc Val: 95.6522, Acc Avg: 93.0222
+Epoch lasted 35.8793230057
+Epoch [2/10], Step [1/191], Task 0 Loss: 0.2958, Acc Val: 93.7500, Acc Avg: 93.7500
+Epoch [2/10], Step [51/191], Task 0 Loss: 0.2600, Acc Val: 92.9688, Acc Avg: 93.3977
+Epoch [2/10], Step [101/191], Task 0 Loss: 0.2889, Acc Val: 91.4062, Acc Avg: 93.4793
+Epoch [2/10], Step [151/191], Task 0 Loss: 0.3686, Acc Val: 90.6250, Acc Avg: 93.3775
+test accuracy
+Epoch [2/10], Task 0 Loss: 0.3147, Acc Val: 88.0435, Acc Avg: 91.9901
+Epoch lasted 35.8615961075
+Epoch [3/10], Step [1/191], Task 0 Loss: 0.2461, Acc Val: 94.5312, Acc Avg: 94.5312
+Epoch [3/10], Step [51/191], Task 0 Loss: 0.2177, Acc Val: 95.3125, Acc Avg: 94.5006
+Epoch [3/10], Step [101/191], Task 0 Loss: 0.2565, Acc Val: 92.1875, Acc Avg: 94.2605
+Epoch [3/10], Step [151/191], Task 0 Loss: 0.2585, Acc Val: 94.5312, Acc Avg: 94.2726
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.2214, Acc Val: 93.4783, Acc Avg: 94.3007
+Epoch lasted 35.6757700443
+Epoch [4/10], Step [1/191], Task 0 Loss: 0.1820, Acc Val: 98.4375, Acc Avg: 98.4375
+Epoch [4/10], Step [51/191], Task 0 Loss: 0.1306, Acc Val: 98.4375, Acc Avg: 94.6232
+Epoch [4/10], Step [101/191], Task 0 Loss: 0.3086, Acc Val: 92.1875, Acc Avg: 94.2915
+Epoch [4/10], Step [151/191], Task 0 Loss: 0.2608, Acc Val: 94.5312, Acc Avg: 94.1122
+test accuracy
+Epoch [4/10], Task 0 Loss: 0.2515, Acc Val: 92.3913, Acc Avg: 93.5613
+Epoch lasted 35.6811521053
+Epoch [5/10], Step [1/191], Task 0 Loss: 0.3572, Acc Val: 91.4062, Acc Avg: 91.4062
+Epoch [5/10], Step [51/191], Task 0 Loss: 0.2385, Acc Val: 94.5312, Acc Avg: 94.2862
+Epoch [5/10], Step [101/191], Task 0 Loss: 0.1649, Acc Val: 96.0938, Acc Avg: 94.5312
+Epoch [5/10], Step [151/191], Task 0 Loss: 0.2659, Acc Val: 90.6250, Acc Avg: 94.4847
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.2061, Acc Val: 89.1304, Acc Avg: 94.5009
+Epoch lasted 35.7145659924
+Epoch [6/10], Step [1/191], Task 0 Loss: 0.1694, Acc Val: 97.6562, Acc Avg: 97.6562
+Epoch [6/10], Step [51/191], Task 0 Loss: 0.1647, Acc Val: 96.0938, Acc Avg: 95.9252
+Epoch [6/10], Step [101/191], Task 0 Loss: 0.1028, Acc Val: 100.0000, Acc Avg: 96.5656
+Epoch [6/10], Step [151/191], Task 0 Loss: 0.0834, Acc Val: 99.2188, Acc Avg: 96.9630
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.0590, Acc Val: 98.9130, Acc Avg: 98.8447
+Epoch lasted 35.7720551491
+Epoch [7/10], Step [1/191], Task 0 Loss: 0.0977, Acc Val: 97.6562, Acc Avg: 97.6562
+Epoch [7/10], Step [51/191], Task 0 Loss: 0.1186, Acc Val: 97.6562, Acc Avg: 98.2996
+Epoch [7/10], Step [101/191], Task 0 Loss: 0.1146, Acc Val: 96.8750, Acc Avg: 98.1049
+Epoch [7/10], Step [151/191], Task 0 Loss: 0.1031, Acc Val: 98.4375, Acc Avg: 98.2409
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.0510, Acc Val: 98.9130, Acc Avg: 99.0758
+Epoch lasted 35.5897920132
+Epoch [8/10], Step [1/191], Task 0 Loss: 0.0903, Acc Val: 99.2188, Acc Avg: 99.2188
+Epoch [8/10], Step [51/191], Task 0 Loss: 0.0889, Acc Val: 99.2188, Acc Avg: 98.8051
+Epoch [8/10], Step [101/191], Task 0 Loss: 0.0776, Acc Val: 98.4375, Acc Avg: 98.6231
+Epoch [8/10], Step [151/191], Task 0 Loss: 0.1080, Acc Val: 99.2188, Acc Avg: 98.6186
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.0497, Acc Val: 100.0000, Acc Avg: 99.1528
+Epoch lasted 35.5822761059
+Epoch [9/10], Step [1/191], Task 0 Loss: 0.0881, Acc Val: 99.2188, Acc Avg: 99.2188
+Epoch [9/10], Step [51/191], Task 0 Loss: 0.1321, Acc Val: 96.0938, Acc Avg: 98.7286
+Epoch [9/10], Step [101/191], Task 0 Loss: 0.0576, Acc Val: 100.0000, Acc Avg: 98.7160
+Epoch [9/10], Step [151/191], Task 0 Loss: 0.1065, Acc Val: 98.4375, Acc Avg: 98.6548
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.0469, Acc Val: 98.9130, Acc Avg: 99.1836
+Epoch lasted 35.7462759018
+Epoch [10/10], Step [1/191], Task 0 Loss: 0.0844, Acc Val: 98.4375, Acc Avg: 98.4375
+Epoch [10/10], Step [51/191], Task 0 Loss: 0.0798, Acc Val: 99.2188, Acc Avg: 98.7745
+Epoch [10/10], Step [101/191], Task 0 Loss: 0.1179, Acc Val: 98.4375, Acc Avg: 98.8475
+Epoch [10/10], Step [151/191], Task 0 Loss: 0.0980, Acc Val: 97.6562, Acc Avg: 98.8825
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.0447, Acc Val: 98.9130, Acc Avg: 99.2760
+Epoch lasted 35.7645628452
+svhn
+params number
+932106
+Epoch [1/10], Step [1/573], Task 0 Loss: 1.6665, Acc Val: 59.3750, Acc Avg: 59.3750
+Epoch [1/10], Step [51/573], Task 0 Loss: 0.3161, Acc Val: 91.4062, Acc Avg: 86.3971
+Epoch [1/10], Step [101/573], Task 0 Loss: 0.4048, Acc Val: 89.0625, Acc Avg: 89.0780
+Epoch [1/10], Step [151/573], Task 0 Loss: 0.1625, Acc Val: 95.3125, Acc Avg: 90.6560
+Epoch [1/10], Step [201/573], Task 0 Loss: 0.2247, Acc Val: 92.9688, Acc Avg: 91.5267
+Epoch [1/10], Step [251/573], Task 0 Loss: 0.1791, Acc Val: 92.9688, Acc Avg: 92.0350
+Epoch [1/10], Step [301/573], Task 0 Loss: 0.1108, Acc Val: 96.0938, Acc Avg: 92.5898
+Epoch [1/10], Step [351/573], Task 0 Loss: 0.0897, Acc Val: 97.6562, Acc Avg: 92.9643
+Epoch [1/10], Step [401/573], Task 0 Loss: 0.2296, Acc Val: 92.9688, Acc Avg: 93.2201
+Epoch [1/10], Step [451/573], Task 0 Loss: 0.0612, Acc Val: 99.2188, Acc Avg: 93.4087
+Epoch [1/10], Step [501/573], Task 0 Loss: 0.1333, Acc Val: 96.8750, Acc Avg: 93.6206
+Epoch [1/10], Step [551/573], Task 0 Loss: 0.1394, Acc Val: 96.0938, Acc Avg: 93.8053
+test accuracy
+Epoch [1/10], Task 0 Loss: 0.1590, Acc Val: 97.5000, Acc Avg: 95.2112
+Epoch lasted 110.023614883
+Epoch [2/10], Step [1/573], Task 0 Loss: 0.0966, Acc Val: 96.0938, Acc Avg: 96.0938
+Epoch [2/10], Step [51/573], Task 0 Loss: 0.2291, Acc Val: 93.7500, Acc Avg: 95.8180
+Epoch [2/10], Step [101/573], Task 0 Loss: 0.1371, Acc Val: 97.6562, Acc Avg: 95.9932
+Epoch [2/10], Step [151/573], Task 0 Loss: 0.1448, Acc Val: 96.8750, Acc Avg: 95.8868
+Epoch [2/10], Step [201/573], Task 0 Loss: 0.0935, Acc Val: 96.8750, Acc Avg: 96.0432
+Epoch [2/10], Step [251/573], Task 0 Loss: 0.0749, Acc Val: 97.6562, Acc Avg: 95.9412
+Epoch [2/10], Step [301/573], Task 0 Loss: 0.1495, Acc Val: 96.8750, Acc Avg: 96.0107
+Epoch [2/10], Step [351/573], Task 0 Loss: 0.1272, Acc Val: 96.0938, Acc Avg: 96.0670
+Epoch [2/10], Step [401/573], Task 0 Loss: 0.1721, Acc Val: 97.6562, Acc Avg: 96.0509
+Epoch [2/10], Step [451/573], Task 0 Loss: 0.1301, Acc Val: 96.0938, Acc Avg: 96.0851
+Epoch [2/10], Step [501/573], Task 0 Loss: 0.1118, Acc Val: 96.8750, Acc Avg: 96.0641
+Epoch [2/10], Step [551/573], Task 0 Loss: 0.0579, Acc Val: 96.8750, Acc Avg: 96.1051
+test accuracy
+Epoch [2/10], Task 0 Loss: 0.2250, Acc Val: 80.0000, Acc Avg: 93.5637
+Epoch lasted 110.656654119
+Epoch [3/10], Step [1/573], Task 0 Loss: 0.0935, Acc Val: 98.4375, Acc Avg: 98.4375
+Epoch [3/10], Step [51/573], Task 0 Loss: 0.1127, Acc Val: 96.0938, Acc Avg: 96.6605
+Epoch [3/10], Step [101/573], Task 0 Loss: 0.1502, Acc Val: 97.6562, Acc Avg: 96.5501
+Epoch [3/10], Step [151/573], Task 0 Loss: 0.1402, Acc Val: 94.5312, Acc Avg: 96.5853
+Epoch [3/10], Step [201/573], Task 0 Loss: 0.1205, Acc Val: 95.3125, Acc Avg: 96.5019
+Epoch [3/10], Step [251/573], Task 0 Loss: 0.0850, Acc Val: 96.8750, Acc Avg: 96.5233
+Epoch [3/10], Step [301/573], Task 0 Loss: 0.0704, Acc Val: 97.6562, Acc Avg: 96.5194
+Epoch [3/10], Step [351/573], Task 0 Loss: 0.0575, Acc Val: 99.2188, Acc Avg: 96.5211
+Epoch [3/10], Step [401/573], Task 0 Loss: 0.1007, Acc Val: 96.0938, Acc Avg: 96.5418
+Epoch [3/10], Step [451/573], Task 0 Loss: 0.1494, Acc Val: 96.8750, Acc Avg: 96.5199
+Epoch [3/10], Step [501/573], Task 0 Loss: 0.2997, Acc Val: 92.1875, Acc Avg: 96.4524
+Epoch [3/10], Step [551/573], Task 0 Loss: 0.1957, Acc Val: 96.0938, Acc Avg: 96.4326
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.1293, Acc Val: 97.5000, Acc Avg: 96.0906
+Epoch lasted 111.98369503
+Epoch [4/10], Step [1/573], Task 0 Loss: 0.0872, Acc Val: 97.6562, Acc Avg: 97.6562
+Epoch [4/10], Step [51/573], Task 0 Loss: 0.0777, Acc Val: 98.4375, Acc Avg: 97.1201
+Epoch [4/10], Step [101/573], Task 0 Loss: 0.1353, Acc Val: 94.5312, Acc Avg: 96.9369
+Epoch [4/10], Step [151/573], Task 0 Loss: 0.0733, Acc Val: 98.4375, Acc Avg: 96.8595
+Epoch [4/10], Step [201/573], Task 0 Loss: 0.1315, Acc Val: 95.3125, Acc Avg: 96.8750
+Epoch [4/10], Step [251/573], Task 0 Loss: 0.1821, Acc Val: 95.3125, Acc Avg: 96.8314
+Epoch [4/10], Step [301/573], Task 0 Loss: 0.1105, Acc Val: 97.6562, Acc Avg: 96.7738
+Epoch [4/10], Step [351/573], Task 0 Loss: 0.0545, Acc Val: 97.6562, Acc Avg: 96.7949
+Epoch [4/10], Step [401/573], Task 0 Loss: 0.1505, Acc Val: 93.7500, Acc Avg: 96.7367
+Epoch [4/10], Step [451/573], Task 0 Loss: 0.0729, Acc Val: 98.4375, Acc Avg: 96.7104
+Epoch [4/10], Step [501/573], Task 0 Loss: 0.1527, Acc Val: 95.3125, Acc Avg: 96.6972
+Epoch [4/10], Step [551/573], Task 0 Loss: 0.1283, Acc Val: 94.5312, Acc Avg: 96.6992
+test accuracy
+Epoch [4/10], Task 0 Loss: 0.1443, Acc Val: 100.0000, Acc Avg: 95.8717
+Epoch lasted 111.663962126
+Epoch [5/10], Step [1/573], Task 0 Loss: 0.1376, Acc Val: 95.3125, Acc Avg: 95.3125
+Epoch [5/10], Step [51/573], Task 0 Loss: 0.1389, Acc Val: 94.5312, Acc Avg: 96.6912
+Epoch [5/10], Step [101/573], Task 0 Loss: 0.1557, Acc Val: 95.3125, Acc Avg: 96.5888
+Epoch [5/10], Step [151/573], Task 0 Loss: 0.0591, Acc Val: 97.6562, Acc Avg: 96.6060
+Epoch [5/10], Step [201/573], Task 0 Loss: 0.1126, Acc Val: 98.4375, Acc Avg: 96.6379
+Epoch [5/10], Step [251/573], Task 0 Loss: 0.1494, Acc Val: 93.7500, Acc Avg: 96.6633
+Epoch [5/10], Step [301/573], Task 0 Loss: 0.0649, Acc Val: 98.4375, Acc Avg: 96.7141
+Epoch [5/10], Step [351/573], Task 0 Loss: 0.1098, Acc Val: 98.4375, Acc Avg: 96.7303
+Epoch [5/10], Step [401/573], Task 0 Loss: 0.1652, Acc Val: 96.0938, Acc Avg: 96.7211
+Epoch [5/10], Step [451/573], Task 0 Loss: 0.1055, Acc Val: 97.6562, Acc Avg: 96.7485
+Epoch [5/10], Step [501/573], Task 0 Loss: 0.0825, Acc Val: 96.8750, Acc Avg: 96.7347
+Epoch [5/10], Step [551/573], Task 0 Loss: 0.3528, Acc Val: 92.1875, Acc Avg: 96.7332
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.1699, Acc Val: 97.5000, Acc Avg: 94.7926
+Epoch lasted 111.689319849
+Epoch [6/10], Step [1/573], Task 0 Loss: 0.0354, Acc Val: 99.2188, Acc Avg: 99.2188
+Epoch [6/10], Step [51/573], Task 0 Loss: 0.1281, Acc Val: 95.3125, Acc Avg: 97.8401
+Epoch [6/10], Step [101/573], Task 0 Loss: 0.0316, Acc Val: 100.0000, Acc Avg: 97.7955
+Epoch [6/10], Step [151/573], Task 0 Loss: 0.1000, Acc Val: 96.0938, Acc Avg: 97.7701
+Epoch [6/10], Step [201/573], Task 0 Loss: 0.0853, Acc Val: 97.6562, Acc Avg: 97.7767
+Epoch [6/10], Step [251/573], Task 0 Loss: 0.0503, Acc Val: 97.6562, Acc Avg: 97.7901
+Epoch [6/10], Step [301/573], Task 0 Loss: 0.1054, Acc Val: 96.8750, Acc Avg: 97.8717
+Epoch [6/10], Step [351/573], Task 0 Loss: 0.1106, Acc Val: 97.6562, Acc Avg: 97.8811
+Epoch [6/10], Step [401/573], Task 0 Loss: 0.0810, Acc Val: 97.6562, Acc Avg: 97.8881
+Epoch [6/10], Step [451/573], Task 0 Loss: 0.0578, Acc Val: 99.2188, Acc Avg: 97.9421
+Epoch [6/10], Step [501/573], Task 0 Loss: 0.0793, Acc Val: 97.6562, Acc Avg: 97.9432
+Epoch [6/10], Step [551/573], Task 0 Loss: 0.1516, Acc Val: 97.6562, Acc Avg: 97.9554
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.0558, Acc Val: 100.0000, Acc Avg: 98.6790
+Epoch lasted 110.821016073
+Epoch [7/10], Step [1/573], Task 0 Loss: 0.0209, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [7/10], Step [51/573], Task 0 Loss: 0.1008, Acc Val: 97.6562, Acc Avg: 98.4835
+Epoch [7/10], Step [101/573], Task 0 Loss: 0.1101, Acc Val: 98.4375, Acc Avg: 98.5303
+Epoch [7/10], Step [151/573], Task 0 Loss: 0.0676, Acc Val: 98.4375, Acc Avg: 98.4065
+Epoch [7/10], Step [201/573], Task 0 Loss: 0.0989, Acc Val: 96.8750, Acc Avg: 98.4025
+Epoch [7/10], Step [251/573], Task 0 Loss: 0.0487, Acc Val: 98.4375, Acc Avg: 98.4219
+Epoch [7/10], Step [301/573], Task 0 Loss: 0.0563, Acc Val: 98.4375, Acc Avg: 98.4479
+Epoch [7/10], Step [351/573], Task 0 Loss: 0.0356, Acc Val: 98.4375, Acc Avg: 98.4086
+Epoch [7/10], Step [401/573], Task 0 Loss: 0.0651, Acc Val: 98.4375, Acc Avg: 98.3907
+Epoch [7/10], Step [451/573], Task 0 Loss: 0.0873, Acc Val: 96.8750, Acc Avg: 98.4029
+Epoch [7/10], Step [501/573], Task 0 Loss: 0.1030, Acc Val: 96.8750, Acc Avg: 98.4094
+Epoch [7/10], Step [551/573], Task 0 Loss: 0.0342, Acc Val: 99.2188, Acc Avg: 98.3893
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.0472, Acc Val: 100.0000, Acc Avg: 98.9017
+Epoch lasted 112.163654804
+Epoch [8/10], Step [1/573], Task 0 Loss: 0.0763, Acc Val: 98.4375, Acc Avg: 98.4375
+Epoch [8/10], Step [51/573], Task 0 Loss: 0.0584, Acc Val: 99.2188, Acc Avg: 98.4988
+Epoch [8/10], Step [101/573], Task 0 Loss: 0.0555, Acc Val: 98.4375, Acc Avg: 98.4994
+Epoch [8/10], Step [151/573], Task 0 Loss: 0.0801, Acc Val: 99.2188, Acc Avg: 98.5720
+Epoch [8/10], Step [201/573], Task 0 Loss: 0.0652, Acc Val: 98.4375, Acc Avg: 98.5619
+Epoch [8/10], Step [251/573], Task 0 Loss: 0.1027, Acc Val: 96.8750, Acc Avg: 98.5402
+Epoch [8/10], Step [301/573], Task 0 Loss: 0.0613, Acc Val: 96.8750, Acc Avg: 98.5517
+Epoch [8/10], Step [351/573], Task 0 Loss: 0.0388, Acc Val: 99.2188, Acc Avg: 98.5733
+Epoch [8/10], Step [401/573], Task 0 Loss: 0.1410, Acc Val: 94.5312, Acc Avg: 98.6050
+Epoch [8/10], Step [451/573], Task 0 Loss: 0.0670, Acc Val: 96.8750, Acc Avg: 98.5969
+Epoch [8/10], Step [501/573], Task 0 Loss: 0.1403, Acc Val: 97.6562, Acc Avg: 98.5934
+Epoch [8/10], Step [551/573], Task 0 Loss: 0.0276, Acc Val: 99.2188, Acc Avg: 98.5750
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.0411, Acc Val: 100.0000, Acc Avg: 99.0399
+Epoch lasted 111.947076797
+Epoch [9/10], Step [1/573], Task 0 Loss: 0.0631, Acc Val: 98.4375, Acc Avg: 98.4375
+Epoch [9/10], Step [51/573], Task 0 Loss: 0.0754, Acc Val: 98.4375, Acc Avg: 98.7745
+Epoch [9/10], Step [101/573], Task 0 Loss: 0.0286, Acc Val: 99.2188, Acc Avg: 98.8397
+Epoch [9/10], Step [151/573], Task 0 Loss: 0.0352, Acc Val: 98.4375, Acc Avg: 98.8514
+Epoch [9/10], Step [201/573], Task 0 Loss: 0.0859, Acc Val: 97.6562, Acc Avg: 98.8067
+Epoch [9/10], Step [251/573], Task 0 Loss: 0.0370, Acc Val: 99.2188, Acc Avg: 98.7581
+Epoch [9/10], Step [301/573], Task 0 Loss: 0.0410, Acc Val: 98.4375, Acc Avg: 98.7490
+Epoch [9/10], Step [351/573], Task 0 Loss: 0.0289, Acc Val: 100.0000, Acc Avg: 98.7625
+Epoch [9/10], Step [401/573], Task 0 Loss: 0.0358, Acc Val: 99.2188, Acc Avg: 98.7375
+Epoch [9/10], Step [451/573], Task 0 Loss: 0.0575, Acc Val: 96.8750, Acc Avg: 98.7216
+Epoch [9/10], Step [501/573], Task 0 Loss: 0.0466, Acc Val: 98.4375, Acc Avg: 98.7073
+Epoch [9/10], Step [551/573], Task 0 Loss: 0.0875, Acc Val: 96.8750, Acc Avg: 98.6800
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.0396, Acc Val: 100.0000, Acc Avg: 99.1283
+Epoch lasted 112.74742794
+Epoch [10/10], Step [1/573], Task 0 Loss: 0.0404, Acc Val: 99.2188, Acc Avg: 99.2188
+Epoch [10/10], Step [51/573], Task 0 Loss: 0.0285, Acc Val: 100.0000, Acc Avg: 99.0502
+Epoch [10/10], Step [101/573], Task 0 Loss: 0.1155, Acc Val: 96.8750, Acc Avg: 98.9867
+Epoch [10/10], Step [151/573], Task 0 Loss: 0.0743, Acc Val: 97.6562, Acc Avg: 98.8773
+Epoch [10/10], Step [201/573], Task 0 Loss: 0.0641, Acc Val: 98.4375, Acc Avg: 98.8340
+Epoch [10/10], Step [251/573], Task 0 Loss: 0.0439, Acc Val: 98.4375, Acc Avg: 98.8079
+Epoch [10/10], Step [301/573], Task 0 Loss: 0.0567, Acc Val: 99.2188, Acc Avg: 98.7542
+Epoch [10/10], Step [351/573], Task 0 Loss: 0.0277, Acc Val: 98.4375, Acc Avg: 98.7469
+Epoch [10/10], Step [401/573], Task 0 Loss: 0.0460, Acc Val: 99.2188, Acc Avg: 98.7570
+Epoch [10/10], Step [451/573], Task 0 Loss: 0.0087, Acc Val: 100.0000, Acc Avg: 98.7441
+Epoch [10/10], Step [501/573], Task 0 Loss: 0.0725, Acc Val: 97.6562, Acc Avg: 98.7307
+Epoch [10/10], Step [551/573], Task 0 Loss: 0.0625, Acc Val: 99.2188, Acc Avg: 98.7466
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.0361, Acc Val: 100.0000, Acc Avg: 99.1897
+Epoch lasted 111.124483824
+ucf101
+params number
+978789
+Epoch [1/10], Step [1/75], Task 0 Loss: 0.5840, Acc Val: 83.5938, Acc Avg: 83.5938
+Epoch [1/10], Step [51/75], Task 0 Loss: 0.1612, Acc Val: 96.0938, Acc Avg: 94.8223
+test accuracy
+Epoch [1/10], Task 0 Loss: 0.1092, Acc Val: 100.0000, Acc Avg: 98.4631
+Epoch lasted 14.5954051018
+Epoch [2/10], Step [1/75], Task 0 Loss: 0.0661, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [2/10], Step [51/75], Task 0 Loss: 0.0741, Acc Val: 99.2188, Acc Avg: 99.1115
+test accuracy
+Epoch [2/10], Task 0 Loss: 0.1093, Acc Val: 100.0000, Acc Avg: 98.9754
+Epoch lasted 14.5484449863
+Epoch [3/10], Step [1/75], Task 0 Loss: 0.0487, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [3/10], Step [51/75], Task 0 Loss: 0.0717, Acc Val: 99.2188, Acc Avg: 99.3566
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.0842, Acc Val: 100.0000, Acc Avg: 99.0266
+Epoch lasted 14.2257890701
+Epoch [4/10], Step [1/75], Task 0 Loss: 0.0602, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [4/10], Step [51/75], Task 0 Loss: 0.0899, Acc Val: 99.2188, Acc Avg: 99.3413
+test accuracy
+Epoch [4/10], Task 0 Loss: 0.0778, Acc Val: 100.0000, Acc Avg: 99.7439
+Epoch lasted 14.4029240608
+Epoch [5/10], Step [1/75], Task 0 Loss: 0.0593, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [5/10], Step [51/75], Task 0 Loss: 0.0652, Acc Val: 100.0000, Acc Avg: 99.5864
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.0820, Acc Val: 98.0769, Acc Avg: 99.3852
+Epoch lasted 14.2130689621
+Epoch [6/10], Step [1/75], Task 0 Loss: 0.0598, Acc Val: 99.2188, Acc Avg: 99.2188
+Epoch [6/10], Step [51/75], Task 0 Loss: 0.0551, Acc Val: 100.0000, Acc Avg: 99.7855
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.0454, Acc Val: 100.0000, Acc Avg: 99.9488
+Epoch lasted 14.3944430351
+Epoch [7/10], Step [1/75], Task 0 Loss: 0.0588, Acc Val: 99.2188, Acc Avg: 99.2188
+Epoch [7/10], Step [51/75], Task 0 Loss: 0.0448, Acc Val: 100.0000, Acc Avg: 99.9081
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.0420, Acc Val: 100.0000, Acc Avg: 99.9488
+Epoch lasted 14.2478210926
+Epoch [8/10], Step [1/75], Task 0 Loss: 0.0527, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [8/10], Step [51/75], Task 0 Loss: 0.0445, Acc Val: 100.0000, Acc Avg: 99.9081
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.0385, Acc Val: 100.0000, Acc Avg: 99.9488
+Epoch lasted 14.1945469379
+Epoch [9/10], Step [1/75], Task 0 Loss: 0.0298, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [9/10], Step [51/75], Task 0 Loss: 0.0355, Acc Val: 100.0000, Acc Avg: 99.9540
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.0391, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 14.3284771442
+Epoch [10/10], Step [1/75], Task 0 Loss: 0.0330, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch [10/10], Step [51/75], Task 0 Loss: 0.0340, Acc Val: 100.0000, Acc Avg: 99.9234
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.0372, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 14.7313089371
+vgg-flowers
+params number
+979302
+Epoch [1/10], Step [1/16], Task 0 Loss: 0.0267, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [1/10], Task 0 Loss: 0.0191, Acc Val: 100.0000, Acc Avg: 99.9020
+Epoch lasted 5.26765203476
+Epoch [2/10], Step [1/16], Task 0 Loss: 0.0172, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [2/10], Task 0 Loss: 0.0058, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 5.31384682655
+Epoch [3/10], Step [1/16], Task 0 Loss: 0.0183, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [3/10], Task 0 Loss: 0.0048, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 5.00014901161
+Epoch [4/10], Step [1/16], Task 0 Loss: 0.0070, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [4/10], Task 0 Loss: 0.0041, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 5.16913795471
+Epoch [5/10], Step [1/16], Task 0 Loss: 0.0060, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [5/10], Task 0 Loss: 0.0037, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 5.12979197502
+Epoch [6/10], Step [1/16], Task 0 Loss: 0.0052, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [6/10], Task 0 Loss: 0.0034, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 4.92765402794
+Epoch [7/10], Step [1/16], Task 0 Loss: 0.0094, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [7/10], Task 0 Loss: 0.0035, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 5.15598201752
+Epoch [8/10], Step [1/16], Task 0 Loss: 0.0053, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [8/10], Task 0 Loss: 0.0034, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 4.82781791687
+Epoch [9/10], Step [1/16], Task 0 Loss: 0.0032, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [9/10], Task 0 Loss: 0.0031, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 5.20820403099
+Epoch [10/10], Step [1/16], Task 0 Loss: 0.0098, Acc Val: 100.0000, Acc Avg: 100.0000
+test accuracy
+Epoch [10/10], Task 0 Loss: 0.0030, Acc Val: 100.0000, Acc Avg: 100.0000
+Epoch lasted 5.12665009499
